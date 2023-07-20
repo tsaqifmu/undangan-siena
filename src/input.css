@@ -4,17 +4,25 @@
 
 @font-face {
   font-family: bodoni;
-  src: url(./assets/font/BODONI\ BK\ BT\ BOOK.TTF);
+  src: url(/src/assets/font/BODONI\ BK\ BT\ BOOK.TTF);
 }
 @font-face {
   font-family: bodoniItalic;
-  src: url(./assets/font/BODONI\ BK\ BT\ BOOK\ ITALIC.TTF);
+  src: url(/src/assets/font/BODONI\ BK\ BT\ BOOK\ ITALIC.TTF);
 }
 @font-face {
   font-family: gothic;
-  src: url(./assets/font/GOTHIC.TTF);
+  src: url(/src/assets/font/GOTHIC.TTF);
 }
 @font-face {
   font-family: gothicCb;
-  src: url(./assets/font/GOTHICB.TTF);
+  src: url(/src/assets/font/GOTHICB.TTF);
+}
+@font-face {
+  font-family: greatvibes;
+  src: url(/src/assets/font/GREATVIBES-REGULAR.TTF);
+}
+@font-face {
+  font-family: scriptbl;
+  src: url(/src/assets/font/SCRIPTBL.TTF);
 }
