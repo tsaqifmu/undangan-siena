@@ -7,6 +7,7 @@ module.exports = {
         bodoni: ['bodoni'],
         greatvibes: ['greatvibes'],
         scriptbl: ['scriptbl'],
+        gothic: ['gothic'],
       },
     },
   },
